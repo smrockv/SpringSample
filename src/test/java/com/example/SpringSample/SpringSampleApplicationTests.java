@@ -10,6 +10,7 @@ class SpringSampleApplicationTests {
 	void contextLoads() {
 
 
+
 	}
 
 }
